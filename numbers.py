@@ -1,5 +1,5 @@
 # Created by Lukas on 15.04.2019 #
-# Basic fictionalises of numbers
+# Basic functionalises of numbers
 
 
 def show_possible_operators(a, b):
